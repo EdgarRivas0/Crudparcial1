@@ -1,0 +1,6 @@
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\bin\Debug\Common.dll
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\bin\Debug\Common.pdb
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\obj\Debug\Common.dll
+C:\Users\ALUMNO\Desktop\CrudNCapas_parcial1-master\Common\obj\Debug\Common.pdb
